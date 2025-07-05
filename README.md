@@ -17,7 +17,7 @@ The website features a feminine, modern design with soft gradients, smooth anima
 
 ## Features List
 
-### 🏠 **Navigation & Structure**
+### **Navigation & Structure**
 - **Sticky Navigation Bar**: Glass-morphism effect with smooth transitions
 - **Smooth Scrolling**: Seamless navigation between sections
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
