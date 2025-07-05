@@ -91,34 +91,32 @@ The website features a feminine, modern design with soft gradients, smooth anima
 - **Performance Optimized**: Fast loading on all devices
 
 ## Application Screenshots
+![screenshot-1751670792205](https://github.com/user-attachments/assets/7f64588e-ef41-48d7-9763-4d48d637abee)
 
 ### Desktop View - Hero Section
 ![Hero Section](screenshots/hero-desktop.png)
 *The main landing page featuring the animated hero section with floating elements and call-to-action buttons*
 
 ### Desktop View - About Section
-![About Section](screenshots/about-desktop.png)
-*Professional about section with profile photo, statistics, and skills grid*
+![screenshot-1751670824733](https://github.com/user-attachments/assets/1334e85b-c212-403a-895e-8ee5a609c1d4)
+
 
 ### Desktop View - Services Section
-![Services Section](screenshots/services-desktop.png)
-*Service offerings displayed in interactive cards with icons and feature tags*
+![screenshot-1751670889281](https://github.com/user-attachments/assets/1676755f-cd3b-4a9f-afa4-1404f74954b1)
+
 
 ### Desktop View - Projects Section
-![Projects Section](screenshots/projects-desktop.png)
-*Featured projects showcase with detailed descriptions and technology tags*
+![screenshot-1751670910864](https://github.com/user-attachments/assets/78ed2b0e-f328-47b1-9d72-85948eb34ae8)
+
 
 ### Desktop View - Contact Section
-![Contact Section](screenshots/contact-desktop.png)
-*Contact form and information with social media links*
+![screenshot-1751670944531](https://github.com/user-attachments/assets/a3487c74-6022-442d-b6b3-3d5844697f29)
+
 
 ### Mobile View - Responsive Design
-![Mobile View](screenshots/mobile-view.png)
-*Responsive design adaptation for mobile devices*
+![IMG_2261](https://github.com/user-attachments/assets/1786d628-e1fd-4f0f-b220-20799386119e)
 
-### Tablet View - Medium Screen Layout
-![Tablet View](screenshots/tablet-view.png)
-*Optimized layout for tablet devices*
+
 
 ## Design Principles Applied
 
