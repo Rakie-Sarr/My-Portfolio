@@ -93,9 +93,6 @@ The website features a feminine, modern design with soft gradients, smooth anima
 ## Application Screenshots
 ![screenshot-1751670792205](https://github.com/user-attachments/assets/7f64588e-ef41-48d7-9763-4d48d637abee)
 
-### Desktop View - Hero Section
-![Hero Section](screenshots/hero-desktop.png)
-*The main landing page featuring the animated hero section with floating elements and call-to-action buttons*
 
 ### Desktop View - About Section
 ![screenshot-1751670824733](https://github.com/user-attachments/assets/1334e85b-c212-403a-895e-8ee5a609c1d4)
