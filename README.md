@@ -201,14 +201,14 @@ No additional setup or dependencies required - the portfolio runs entirely in th
 
 This portfolio successfully demonstrates the application of core Human-Computer Interaction principles:
 
-- ✅ **User-Centered Design**: Focused on the needs of potential employers and clients
-- ✅ **Usability**: Intuitive navigation and clear information hierarchy
-- ✅ **Accessibility**: WCAG compliant with keyboard and screen reader support
-- ✅ **Consistency**: Uniform design language throughout the application
-- ✅ **Feedback**: Clear user feedback for all interactions
-- ✅ **Error Prevention**: Form validation and user guidance
-- ✅ **Aesthetic Design**: Beautiful, professional visual presentation
-- ✅ **Responsive Design**: Optimal experience across all devices
+-  **User-Centered Design**: Focused on the needs of potential employers and clients
+-  **Usability**: Intuitive navigation and clear information hierarchy
+-  **Accessibility**: WCAG compliant with keyboard and screen reader support
+-  **Consistency**: Uniform design language throughout the application
+-  **Feedback**: Clear user feedback for all interactions
+-  **Error Prevention**: Form validation and user guidance
+-  **Aesthetic Design**: Beautiful, professional visual presentation
+-  **Responsive Design**: Optimal experience across all devices
 
 ---
 
